@@ -1,0 +1,18 @@
+F1 - Open Documentation 
+F2 - Rename
+F3 - Query Editor
+F4 - Logs
+F5 - Blender Container Property Editor
+F6 - Advanced Profiler
+F7 - Sound Bank Manager
+F8 - Mixing Desk
+F9 - Schematic View
+F10 - Music Editor
+F11 - Voice Inspector
+F12 - Game Object 30 View
+
+
+Space bar - Play
+CTRL + F7 - Build
+
+
